@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Portofolio App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="flutter">Flutter</string>
+    <string name="android">Android</string>
+    <string name="experience">experience</string>
+    <string name="ui_ux">ui_ux</string>
+    <string name="career">Graphic Designer at LPDP Kemenkeu RI</string>
+    <string name="setting">setting</string>
+    <string name="content_tentang">Full Time Graphic Designer who responsible for daily graphic design content for a medium-sized government institution. Worked regularly on graphic, data visualization, branding, and social media material. Top 10 on the Bandung Visualthon 2015: Infographic Competition. Developed 180+ graphic design projects (data visualizations, brand identity, infographics, social media contents) that increased brand implementation by 20%. </string>
+    <string name="tentang">About</string>
+    <string name="muhammad_luthfi_farizqi">Muhammad Luthfi Farizqi</string>
+    <string name="app_android_btn">%s App Android</string>
+    <string name="documentation_link">Documentation Link</string>
+</resources>
